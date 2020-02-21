@@ -1,4 +1,4 @@
-const request = require('request');
+const request = require('./node_modules/request');
 
 
 const forecast = (lat, long, callback) => {
